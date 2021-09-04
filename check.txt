@@ -1,0 +1,28 @@
+How to mouseover & mouseout?
+Requested by :D
+
+First gawa html basic
+
+<html>
+<head>
+</head>
+<body>
+
+</body>
+</html>
+
+Then lagay ka kahit anong tag dipende sayo kung ano lagyan mo ng mouseover at mouseout 
+
+Gagawin ko example ay yung image so gagawa tayo img tag
+
+so ayan may image na tayo next naman gagawin natin ay gumawa tayo functions sa javascript for mouseover & mouseout 
+So ang gagawin ko is mouseover magiging 0.5 opacity yung picture then mouseout babalik siya sa dati.
+
+So ayan ok na may functions na tayo next naman gagawin natin ay kung paano tawagin yung  functions
+
+Gagawin niyu lang ay mag lagay onmouseover="" at onmouseout="" 
+
+So ayan tapos na 
+Pwede ka din ibang style gusto mo pwede din mag alert gaya nito
+
+thanks for watching :D

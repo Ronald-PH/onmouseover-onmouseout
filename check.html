@@ -1,0 +1,19 @@
+<html>
+<head>
+</head>
+<body>
+<img class="test" onmouseover="mouseOver()" onmouseout="mouseOut()" src="test.jpg">
+<script>
+function mouseOver() {
+	var over = document.querySelector('.test');
+	over.style.opacity = '0.5';
+	alert("Over");
+}
+function mouseOut() {
+	var out = document.querySelector('.test');
+	out.style.opacity = '1';
+	alert("Out");
+}
+</script>
+</body>
+</html>
